@@ -1,4 +1,4 @@
-// all redux ability
+// all redux ability//
 const INCREMENT = 'INCREMENT'; // Define a constant for increment action types
 const DECREMENT = 'DECREMENT'; // Define a constant for decrement action types
 
